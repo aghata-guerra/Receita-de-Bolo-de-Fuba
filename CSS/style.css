@@ -1,4 +1,26 @@
 body{
-    background-image: url(../IMAGENS/BOLO-DE-FUBA-CREMOSO.webp) ;
-    text-align: center;
+    background-image: url(../IMAGENS/bolo\ de\ fuba\ cremoso\ blur\ \(1\).png) ;
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    color: blueviolet;
+}
+.pai{
+    background-color: #F0E8C2;
+    margin: 240px 48px;
+    border-radius: 24px;
+}
+.inicio{
+    margin-bottom: 24px;
+}
+.meio{
+    margin-bottom: 24px;
+}
+.imagem img{
+    padding: 24px;
+    border-radius: 30px;
+    
 }
