@@ -1,15 +1,15 @@
-body{
-    background-image: url(../IMAGENS/bolo\ de\ fuba\ cremoso\ blur\ \(1\).png) ;
+body {
+    background-image: url(../IMAGENS/bolo\ de\ fuba\ cremoso\ blur\ \(1\).png);
     background-size: cover;
     text-align: justify;
+}
+:root{
+    font-family: "Alice", serif;
+    line-height: 150%;
+    color: #573A37;
 
 }
-.alice-regular {
-  font-family: "Alice", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-.pai{
+.pai {
     background-color: #F0E8C2;
     padding: 24px;
     width: 800px;
@@ -17,19 +17,59 @@ body{
     border-radius: 24px;
     box-sizing: border-box;
 }
-.inicio{
-    margin-bottom: 24px;
-}
-.meio{
-    margin-bottom: 24px;
-}
-.imagem img{
+.imagem img {
     border-radius: 16px;
     max-width: 100%;
 }
-a{
-    text-decoration: none;
+.inicio {
+    margin-bottom: 24px;
+    margin-top: 24px;
+}
+
+.meio {
+    margin-bottom: 24px;
+}
+h1, h2 {
+    color: #291B1A;
 }
 h1{
-    color: blueviolet;
+    line-height: 140%;
+    font-size: 40px;
+    margin-bottom: 4px;
+    margin-top: 24px;
+
+}
+h2{
+    font-size: 24px;
+    margin-top: 24px;
+    margin-bottom: 4px;
+
+}
+p{
+    margin-top: 4px;
+}
+#a{
+    margin-bottom: 12px;
+
+}
+#b{
+    margin-top: 12px;
+}
+a {
+    text-decoration: none;
+    color: #291B1A;
+
+}
+ul, ol {
+    padding: 0px 24px;
+    margin-top: 4px;
+    
+}
+footer{
+    text-align: center;
+    color: #F0E8C2;
+    padding-bottom: 48px;
+}
+footer img{
+    vertical-align: middle;
 }
